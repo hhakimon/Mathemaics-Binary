@@ -37,3 +37,5 @@ def getUserScore(userName):
             
             remove('userScores.txt')
             rename('userScores.tmp', 'userScores.txt')
+            #салом болла
+            
