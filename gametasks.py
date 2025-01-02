@@ -38,5 +38,6 @@ def getUserScore(userName):
             remove('userScores.txt')
             rename('userScores.tmp', 'userScores.txt')
             
-            #кульминация
+            #sexsualization
+            
             
